@@ -6,6 +6,8 @@
 Welcome to Test Project's documentation!
 ========================================
 
+GUIDE
+^^^^^^
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
