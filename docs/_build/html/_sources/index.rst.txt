@@ -16,6 +16,7 @@ GUIDE
    :caption: Contents:
 
    TEST
+   htmltest
 
 
 Indices and tables
