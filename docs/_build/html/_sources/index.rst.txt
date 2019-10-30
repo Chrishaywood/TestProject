@@ -1,5 +1,3 @@
-
-
 Welcome to Test Project's documentation!
 ========================================
 
