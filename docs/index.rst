@@ -19,7 +19,7 @@ GUIDE
    :maxdepth: 2
    :caption: Contents:
 
-   TEST
+   TEST Conversion
 
 Supplementary documents
 -----------------------
