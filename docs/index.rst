@@ -18,6 +18,15 @@ GUIDE
    TEST
    htmltest
 
+Supplementary documents
+-----------------------
+
+- `HTML test upload`__ uploaded test html
+
+__ htmltest.html
+
+
+
 
 Indices and tables
 ==================
