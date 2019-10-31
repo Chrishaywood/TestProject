@@ -8,6 +8,10 @@ Here is an example of a code block.::
     print 'hello'
     >> hello
     
+
+.. image:: _images/Prohelion_Title_Logo_Small.png
+   :width: 600
+
 GUIDE
 ^^^^^^
 
@@ -16,7 +20,6 @@ GUIDE
    :caption: Contents:
 
    TEST
-   htmltest
 
 Supplementary documents
 -----------------------
