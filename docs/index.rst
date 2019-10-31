@@ -1,6 +1,10 @@
 Welcome to Test Project's documentation!
 ========================================
 
+.. image:: _images/Prohelion_Title_Logo_Small.png
+   :width: 600
+
+
 This is a code snippet!
 =======================
 Here is an example of a code block.::
@@ -8,10 +12,6 @@ Here is an example of a code block.::
     print 'hello'
     >> hello
     
-
-.. image:: _images/Prohelion_Title_Logo_Small.png
-   :width: 600
-
 GUIDE
 ^^^^^^
 
