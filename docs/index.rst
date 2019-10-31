@@ -24,7 +24,7 @@ GUIDE
 Supplementary documents
 -----------------------
 
-- `HTML test upload`__ uploaded test html
+- `HTML test`__ Custom HTML page uploaded
 
 __ htmltest.html
 
