@@ -20,6 +20,7 @@ GUIDE
    :caption: Contents:
 
    TEST
+   Documents
 
 Supplementary documents
 -----------------------
